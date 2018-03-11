@@ -82,6 +82,8 @@ class OldTourist implements Visitor
     }
 }
 
+//------------------------------------------------------
+
 $tourist = new Tourist();
 $oldTourist = new OldTourist();
 
